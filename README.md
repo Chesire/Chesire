@@ -14,11 +14,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com//Chesire/Nekome/issues/260) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-2. 🗣 Commented on [#270](https://github.com//Chesire/Nekome/issues/270) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-3. 🗣 Commented on [#271](https://github.com//Chesire/Nekome/issues/271) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-4. 🗣 Commented on [#7](https://github.com//Chesire/Arcanic/issues/7) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
-5. 🗣 Commented on [#265](https://github.com//Chesire/Nekome/issues/265) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+1. ❗️ Opened issue [#24](https://github.com//Chesire/Eden/issues/24) in [Chesire/Eden](https://github.com//Chesire/Eden)
+2. 🗣 Commented on [#260](https://github.com//Chesire/Nekome/issues/260) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+3. 🗣 Commented on [#270](https://github.com//Chesire/Nekome/issues/270) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+4. 🗣 Commented on [#271](https://github.com//Chesire/Nekome/issues/271) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+5. 🗣 Commented on [#7](https://github.com//Chesire/Arcanic/issues/7) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
 <!--END_SECTION:activity-->
 
 ## Stats
