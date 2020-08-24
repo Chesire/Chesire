@@ -6,10 +6,12 @@
 <!-- Uses https://github.com/Chesire/natemoo-re -->
 * Currently working on Android.
 * Currently reading "The Clean Coder" by Robert Martin.
+<!--
 * Currently listening to: 
 <a href="https://natemoo-re-iirbxe7wf.vercel.app/now-playing?open">
     <img src="https://natemoo-re-iirbxe7wf.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>  
+-->
 
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
