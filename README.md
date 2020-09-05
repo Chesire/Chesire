@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com//Chesire/Nekome/issues/283) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-2. 🗣 Commented on [#90](https://github.com//Chesire/LintRules/issues/90) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
-3. 🗣 Commented on [#20](https://github.com//Chesire/Arcanic/issues/20) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
-4. 🎉 Merged PR [#27](https://github.com//Chesire/Eden/pull/27) in [Chesire/Eden](https://github.com//Chesire/Eden)
-5. 🎉 Merged PR [#107](https://github.com//Chesire/LifecykleLog/pull/107) in [Chesire/LifecykleLog](https://github.com//Chesire/LifecykleLog)
+1. 🗣 Commented on [#284](https://github.com//Chesire/Nekome/issues/284) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+2. 🗣 Commented on [#283](https://github.com//Chesire/Nekome/issues/283) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+3. 🗣 Commented on [#90](https://github.com//Chesire/LintRules/issues/90) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
+4. 🗣 Commented on [#20](https://github.com//Chesire/Arcanic/issues/20) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
+5. 🎉 Merged PR [#27](https://github.com//Chesire/Eden/pull/27) in [Chesire/Eden](https://github.com//Chesire/Eden)
 <!--END_SECTION:activity-->
 
 ## Stats
