@@ -18,9 +18,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#268](https://github.com//Chesire/Nekome/issues/268) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
 2. 🗣 Commented on [#268](https://github.com//Chesire/Nekome/issues/268) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-3. 🎉 Merged PR [#288](https://github.com//Chesire/Nekome/pull/288) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-4. 🎉 Merged PR [#289](https://github.com//Chesire/Nekome/pull/289) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-5. 💪 Opened PR [#289](https://github.com//Chesire/Nekome/pull/289) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+3. 🗣 Commented on [#268](https://github.com//Chesire/Nekome/issues/268) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+4. 🎉 Merged PR [#288](https://github.com//Chesire/Nekome/pull/288) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+5. 🎉 Merged PR [#289](https://github.com//Chesire/Nekome/pull/289) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
 <!--END_SECTION:activity-->
 
 ## Stats
