@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com//Chesire/LintRules/pull/94) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
-2. 🗣 Commented on [#73](https://github.com//Chesire/chesire.github.io/issues/73) in [Chesire/chesire.github.io](https://github.com//Chesire/chesire.github.io)
-3. 🗣 Commented on [#23](https://github.com//Chesire/Arcanic/issues/23) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
-4. 🗣 Commented on [#74](https://github.com//Chesire/chesire.github.io/issues/74) in [Chesire/chesire.github.io](https://github.com//Chesire/chesire.github.io)
-5. 🗣 Commented on [#292](https://github.com//Chesire/Nekome/issues/292) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+1. 🗣 Commented on [#94](https://github.com//Chesire/LintRules/issues/94) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
+2. 🗣 Commented on [#94](https://github.com//Chesire/LintRules/issues/94) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
+3. 💪 Opened PR [#94](https://github.com//Chesire/LintRules/pull/94) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
+4. 🗣 Commented on [#73](https://github.com//Chesire/chesire.github.io/issues/73) in [Chesire/chesire.github.io](https://github.com//Chesire/chesire.github.io)
+5. 🗣 Commented on [#23](https://github.com//Chesire/Arcanic/issues/23) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
 <!--END_SECTION:activity-->
 
 ## Stats
