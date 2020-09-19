@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#301](https://github.com//Chesire/Nekome/issues/301) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-2. 🗣 Commented on [#26](https://github.com//Chesire/Arcanic/issues/26) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
-3. 🗣 Commented on [#114](https://github.com//Chesire/LifecykleLog/issues/114) in [Chesire/LifecykleLog](https://github.com//Chesire/LifecykleLog)
-4. 🗣 Commented on [#295](https://github.com//Chesire/Nekome/issues/295) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-5. 🗣 Commented on [#296](https://github.com//Chesire/Nekome/issues/296) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+1. ❗️ Opened issue [#97](https://github.com//Chesire/LintRules/issues/97) in [Chesire/LintRules](https://github.com//Chesire/LintRules)
+2. 🗣 Commented on [#301](https://github.com//Chesire/Nekome/issues/301) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+3. 🗣 Commented on [#26](https://github.com//Chesire/Arcanic/issues/26) in [Chesire/Arcanic](https://github.com//Chesire/Arcanic)
+4. 🗣 Commented on [#114](https://github.com//Chesire/LifecykleLog/issues/114) in [Chesire/LifecykleLog](https://github.com//Chesire/LifecykleLog)
+5. 🗣 Commented on [#295](https://github.com//Chesire/Nekome/issues/295) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
 <!--END_SECTION:activity-->
 
 ## Stats
