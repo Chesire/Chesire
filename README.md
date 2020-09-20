@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com//Chesire/Nekome/pull/304) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-2. 🎉 Merged PR [#305](https://github.com//Chesire/Nekome/pull/305) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-3. 💪 Opened PR [#305](https://github.com//Chesire/Nekome/pull/305) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-4. 🎉 Merged PR [#303](https://github.com//Chesire/Nekome/pull/303) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
-5. 💪 Opened PR [#303](https://github.com//Chesire/Nekome/pull/303) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+1. 💪 Opened PR [#306](https://github.com//Chesire/Nekome/pull/306) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+2. 🎉 Merged PR [#304](https://github.com//Chesire/Nekome/pull/304) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+3. 🎉 Merged PR [#305](https://github.com//Chesire/Nekome/pull/305) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+4. 💪 Opened PR [#305](https://github.com//Chesire/Nekome/pull/305) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
+5. 🎉 Merged PR [#303](https://github.com//Chesire/Nekome/pull/303) in [Chesire/Nekome](https://github.com//Chesire/Nekome)
 <!--END_SECTION:activity-->
 
 ## Stats
