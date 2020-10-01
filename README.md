@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/b-reynolds/device-info-app/pull/2) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-2. 🗣 Commented on [#28](https://github.com/Chesire/Arcanic/issues/28) in [Chesire/Arcanic](https://github.com/Chesire/Arcanic)
-3. 🎉 Merged PR [#1](https://github.com/b-reynolds/device-info-app/pull/1) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-4. 💪 Opened PR [#1](https://github.com/b-reynolds/device-info-app/pull/1) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-5. 🗣 Commented on [#311](https://github.com/Chesire/Nekome/issues/311) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. ❗️ Opened issue [#6](https://github.com/b-reynolds/device-info-app/issues/6) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+2. ❗️ Opened issue [#5](https://github.com/b-reynolds/device-info-app/issues/5) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+3. ❗️ Opened issue [#4](https://github.com/b-reynolds/device-info-app/issues/4) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+4. ❗️ Opened issue [#3](https://github.com/b-reynolds/device-info-app/issues/3) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+5. 🗣 Commented on [#2](https://github.com/b-reynolds/device-info-app/issues/2) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
 <!--END_SECTION:activity-->
 
 ## Stats
