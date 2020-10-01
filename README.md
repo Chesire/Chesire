@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/Chesire/Eden/issues/30) in [Chesire/Eden](https://github.com/Chesire/Eden)
+1. 🗣 Commented on [#2](https://github.com/b-reynolds/device-info-app/issues/2) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
 2. 🗣 Commented on [#30](https://github.com/Chesire/Eden/issues/30) in [Chesire/Eden](https://github.com/Chesire/Eden)
-3. 🗣 Commented on [#314](https://github.com/Chesire/Nekome/issues/314) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-4. 🗣 Commented on [#313](https://github.com/Chesire/Nekome/issues/313) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-5. 🗣 Commented on [#117](https://github.com/Chesire/LifecykleLog/issues/117) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
+3. 🗣 Commented on [#30](https://github.com/Chesire/Eden/issues/30) in [Chesire/Eden](https://github.com/Chesire/Eden)
+4. 🗣 Commented on [#314](https://github.com/Chesire/Nekome/issues/314) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+5. 🗣 Commented on [#313](https://github.com/Chesire/Nekome/issues/313) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 <!--END_SECTION:activity-->
 
 ## Stats
