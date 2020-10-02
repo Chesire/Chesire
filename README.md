@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/b-reynolds/device-info-app/pull/2) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-2. 🗣 Commented on [#2](https://github.com/b-reynolds/device-info-app/issues/2) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-3. 🗣 Commented on [#30](https://github.com/Chesire/Eden/issues/30) in [Chesire/Eden](https://github.com/Chesire/Eden)
-4. 🗣 Commented on [#30](https://github.com/Chesire/Eden/issues/30) in [Chesire/Eden](https://github.com/Chesire/Eden)
-5. 🗣 Commented on [#314](https://github.com/Chesire/Nekome/issues/314) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. 🗣 Commented on [#318](https://github.com/Chesire/Nekome/issues/318) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+2. 🗣 Commented on [#315](https://github.com/Chesire/Nekome/issues/315) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+3. 🗣 Commented on [#316](https://github.com/Chesire/Nekome/issues/316) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+4. 🗣 Commented on [#317](https://github.com/Chesire/Nekome/issues/317) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+5. 🗣 Commented on [#32](https://github.com/Chesire/Arcanic/issues/32) in [Chesire/Arcanic](https://github.com/Chesire/Arcanic)
 <!--END_SECTION:activity-->
 
 ## Stats
