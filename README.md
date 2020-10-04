@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/Chesire/LintRules/pull/102) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
-2. ❗️ Closed issue [#97](https://github.com/Chesire/LintRules/issues/97) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
-3. 💪 Opened PR [#102](https://github.com/Chesire/LintRules/pull/102) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
-4. ❗️ Closed issue [#3](https://github.com/b-reynolds/device-info-app/issues/3) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-5. 🗣 Commented on [#14](https://github.com/b-reynolds/device-info-app/issues/14) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+1. 💪 Opened PR [#320](https://github.com/Chesire/Nekome/pull/320) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+2. 🎉 Merged PR [#102](https://github.com/Chesire/LintRules/pull/102) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
+3. ❗️ Closed issue [#97](https://github.com/Chesire/LintRules/issues/97) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
+4. 💪 Opened PR [#102](https://github.com/Chesire/LintRules/pull/102) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
+5. ❗️ Closed issue [#3](https://github.com/b-reynolds/device-info-app/issues/3) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
 <!--END_SECTION:activity-->
 
 ## Stats
