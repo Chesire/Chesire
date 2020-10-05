@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/Chesire/Nekome/issues/322) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-2. 🗣 Commented on [#119](https://github.com/Chesire/LifecykleLog/issues/119) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
-3. 🗣 Commented on [#321](https://github.com/Chesire/Nekome/issues/321) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-4. ❗️ Opened issue [#15](https://github.com/b-reynolds/device-info-app/issues/15) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-5. 🎉 Merged PR [#320](https://github.com/Chesire/Nekome/pull/320) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. 🎉 Merged PR [#13](https://github.com/b-reynolds/device-info-app/pull/13) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+2. 🎉 Merged PR [#9](https://github.com/b-reynolds/device-info-app/pull/9) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+3. ❗️ Closed issue [#7](https://github.com/b-reynolds/device-info-app/issues/7) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+4. 🗣 Commented on [#322](https://github.com/Chesire/Nekome/issues/322) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+5. 🗣 Commented on [#119](https://github.com/Chesire/LifecykleLog/issues/119) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
 <!--END_SECTION:activity-->
 
 ## Stats
