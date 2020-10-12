@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/Chesire/Arcanic/issues/37) in [Chesire/Arcanic](https://github.com/Chesire/Arcanic)
-2. 🗣 Commented on [#328](https://github.com/Chesire/Nekome/issues/328) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-3. 🗣 Commented on [#123](https://github.com/Chesire/LifecykleLog/issues/123) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
-4. 🗣 Commented on [#18](https://github.com/b-reynolds/device-info-app/issues/18) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
-5. 💪 Opened PR [#18](https://github.com/b-reynolds/device-info-app/pull/18) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+1. 🎉 Merged PR [#18](https://github.com/b-reynolds/device-info-app/pull/18) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+2. ❗️ Closed issue [#8](https://github.com/b-reynolds/device-info-app/issues/8) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+3. 🗣 Commented on [#37](https://github.com/Chesire/Arcanic/issues/37) in [Chesire/Arcanic](https://github.com/Chesire/Arcanic)
+4. 🗣 Commented on [#328](https://github.com/Chesire/Nekome/issues/328) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+5. 🗣 Commented on [#123](https://github.com/Chesire/LifecykleLog/issues/123) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
 <!--END_SECTION:activity-->
 
 ## Stats
