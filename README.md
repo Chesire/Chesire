@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/Chesire/Nekome/issues/326) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-2. 🗣 Commented on [#124](https://github.com/Chesire/LifecykleLog/issues/124) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
-3. 🗣 Commented on [#109](https://github.com/Chesire/LifecykleLog/issues/109) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
-4. 🗣 Commented on [#99](https://github.com/Chesire/LintRules/issues/99) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
-5. 🗣 Commented on [#31](https://github.com/Chesire/Arcanic/issues/31) in [Chesire/Arcanic](https://github.com/Chesire/Arcanic)
+1. 🗣 Commented on [#20](https://github.com/b-reynolds/device-info-app/issues/20) in [b-reynolds/device-info-app](https://github.com/b-reynolds/device-info-app)
+2. 🗣 Commented on [#326](https://github.com/Chesire/Nekome/issues/326) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+3. 🗣 Commented on [#124](https://github.com/Chesire/LifecykleLog/issues/124) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
+4. 🗣 Commented on [#109](https://github.com/Chesire/LifecykleLog/issues/109) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
+5. 🗣 Commented on [#99](https://github.com/Chesire/LintRules/issues/99) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
 <!--END_SECTION:activity-->
 
 ## Stats
