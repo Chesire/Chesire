@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/Chesire/Nekome/issues/346) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-2. 🗣 Commented on [#347](https://github.com/Chesire/Nekome/issues/347) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-3. 🗣 Commented on [#128](https://github.com/Chesire/LifecykleLog/issues/128) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
-4. 🗣 Commented on [#345](https://github.com/Chesire/Nekome/issues/345) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-5. 🗣 Commented on [#111](https://github.com/Chesire/LintRules/issues/111) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
+1. 🗣 Commented on [#348](https://github.com/Chesire/Nekome/issues/348) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+2. 🗣 Commented on [#129](https://github.com/Chesire/LifecykleLog/issues/129) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
+3. 🗣 Commented on [#346](https://github.com/Chesire/Nekome/issues/346) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+4. 🗣 Commented on [#347](https://github.com/Chesire/Nekome/issues/347) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+5. 🗣 Commented on [#128](https://github.com/Chesire/LifecykleLog/issues/128) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
 <!--END_SECTION:activity-->
 
 ## Stats
