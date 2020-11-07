@@ -16,11 +16,11 @@
 ## Activity
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/Chesire/Pushie/pull/54) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
-2. 💪 Opened PR [#54](https://github.com/Chesire/PassPusher/pull/54) in [Chesire/PassPusher](https://github.com/Chesire/PassPusher)
-3. ❗️ Opened issue [#53](https://github.com/Chesire/PassPusher/issues/53) in [Chesire/PassPusher](https://github.com/Chesire/PassPusher)
-4. 🎉 Merged PR [#52](https://github.com/Chesire/PassPusher/pull/52) in [Chesire/PassPusher](https://github.com/Chesire/PassPusher)
-5. 💪 Opened PR [#52](https://github.com/Chesire/PassPusher/pull/52) in [Chesire/PassPusher](https://github.com/Chesire/PassPusher)
+1. 💪 Opened PR [#352](https://github.com/Chesire/Nekome/pull/352) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+2. 💪 Opened PR [#55](https://github.com/Chesire/Pushie/pull/55) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+3. 🎉 Merged PR [#54](https://github.com/Chesire/Pushie/pull/54) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+4. 💪 Opened PR [#54](https://github.com/Chesire/PassPusher/pull/54) in [Chesire/PassPusher](https://github.com/Chesire/PassPusher)
+5. ❗️ Opened issue [#53](https://github.com/Chesire/PassPusher/issues/53) in [Chesire/PassPusher](https://github.com/Chesire/PassPusher)
 <!--END_SECTION:activity-->
 
 ## Stats
