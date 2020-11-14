@@ -3,9 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/chesire)](https://github.com/chesire)
 
 ## About
+
 <!-- Uses https://github.com/Chesire/natemoo-re -->
 * Currently working on Android.
-* Currently reading "The Clean Coder" by Robert Martin.
+* Currently looking for a new book to pick up.
 <!--
 * Currently listening to: 
 <a href="https://natemoo-re-iirbxe7wf.vercel.app/now-playing?open">
@@ -14,6 +15,7 @@
 -->
 
 ## Activity
+
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#368](https://github.com/Chesire/Nekome/pull/368) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
@@ -24,6 +26,7 @@
 <!--END_SECTION:activity-->
 
 ## Stats
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chesire&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesire&layout=compact&theme=tokyonight" >
 </a>
