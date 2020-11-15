@@ -18,11 +18,11 @@
 
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#369](https://github.com/Chesire/Nekome/pull/369) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-2. 💪 Opened PR [#369](https://github.com/Chesire/Nekome/pull/369) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-3. 🗣 Commented on [#45](https://github.com/Chesire/Eden/issues/45) in [Chesire/Eden](https://github.com/Chesire/Eden)
-4. 🗣 Commented on [#44](https://github.com/Chesire/Eden/issues/44) in [Chesire/Eden](https://github.com/Chesire/Eden)
-5. 🗣 Commented on [#43](https://github.com/Chesire/Eden/issues/43) in [Chesire/Eden](https://github.com/Chesire/Eden)
+1. 💪 Opened PR [#370](https://github.com/Chesire/Nekome/pull/370) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+2. 🎉 Merged PR [#369](https://github.com/Chesire/Nekome/pull/369) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+3. 💪 Opened PR [#369](https://github.com/Chesire/Nekome/pull/369) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+4. 🗣 Commented on [#45](https://github.com/Chesire/Eden/issues/45) in [Chesire/Eden](https://github.com/Chesire/Eden)
+5. 🗣 Commented on [#44](https://github.com/Chesire/Eden/issues/44) in [Chesire/Eden](https://github.com/Chesire/Eden)
 <!--END_SECTION:activity-->
 
 ## Stats
