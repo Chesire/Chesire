@@ -18,11 +18,11 @@
 
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/Chesire/Pushie/issues/60) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
-2. 🗣 Commented on [#375](https://github.com/Chesire/Nekome/issues/375) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-3. ❗️ Opened issue [#115](https://github.com/Chesire/LintRules/issues/115) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
-4. 🎉 Merged PR [#373](https://github.com/Chesire/Nekome/pull/373) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-5. 🎉 Merged PR [#371](https://github.com/Chesire/Nekome/pull/371) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. 💪 Opened PR [#376](https://github.com/Chesire/Nekome/pull/376) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+2. 🗣 Commented on [#60](https://github.com/Chesire/Pushie/issues/60) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+3. 🗣 Commented on [#375](https://github.com/Chesire/Nekome/issues/375) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+4. ❗️ Opened issue [#115](https://github.com/Chesire/LintRules/issues/115) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
+5. 🎉 Merged PR [#373](https://github.com/Chesire/Nekome/pull/373) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 <!--END_SECTION:activity-->
 
 ## Stats
