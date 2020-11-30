@@ -18,7 +18,7 @@
 
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#393](https://github.com/Chesire/Nekome/issues/393) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. ❗️ Opened issue [#396](https://github.com/Chesire/Nekome/issues/396) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 2. 🗣 Commented on [#394](https://github.com/Chesire/Nekome/issues/394) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 3. 🗣 Commented on [#395](https://github.com/Chesire/Nekome/issues/395) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 4. 🗣 Commented on [#67](https://github.com/Chesire/Pushie/issues/67) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
