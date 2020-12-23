@@ -6,7 +6,7 @@
 
 <!-- Uses https://github.com/Chesire/natemoo-re -->
 * Currently working on Android.
-* Currently looking for a new book to pick up.
+* Currently reading Clean Architeture by Robert C Martin
 <!--
 * Currently listening to: 
 <a href="https://natemoo-re-iirbxe7wf.vercel.app/now-playing?open">
