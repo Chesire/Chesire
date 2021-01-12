@@ -18,11 +18,11 @@
 
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/Chesire/Pushie/pull/80) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
-2. 💪 Opened PR [#80](https://github.com/Chesire/Pushie/pull/80) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
-3. 🎉 Merged PR [#79](https://github.com/Chesire/Pushie/pull/79) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
-4. 💪 Opened PR [#79](https://github.com/Chesire/Pushie/pull/79) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
-5. 🎉 Merged PR [#78](https://github.com/Chesire/Pushie/pull/78) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+1. ❗️ Opened issue [#81](https://github.com/Chesire/Pushie/issues/81) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+2. 🗣 Commented on [#53](https://github.com/Chesire/Pushie/issues/53) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+3. 🗣 Commented on [#26](https://github.com/Chesire/Pushie/issues/26) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+4. 🎉 Merged PR [#80](https://github.com/Chesire/Pushie/pull/80) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+5. 💪 Opened PR [#80](https://github.com/Chesire/Pushie/pull/80) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
 <!--END_SECTION:activity-->
 
 ## Stats
