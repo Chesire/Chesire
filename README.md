@@ -18,11 +18,11 @@
 
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#462](https://github.com/Chesire/Nekome/pull/462) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. 🗣 Commented on [#462](https://github.com/Chesire/Nekome/issues/462) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 2. 🗣 Commented on [#459](https://github.com/Chesire/Nekome/issues/459) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-3. 🗣 Commented on [#461](https://github.com/Chesire/Nekome/issues/461) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-4. 🎉 Merged PR [#460](https://github.com/Chesire/Nekome/pull/460) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-5. 💪 Opened PR [#460](https://github.com/Chesire/Nekome/pull/460) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+3. 🎉 Merged PR [#466](https://github.com/Chesire/Nekome/pull/466) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+4. 🗣 Commented on [#466](https://github.com/Chesire/Nekome/issues/466) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+5. 🗣 Commented on [#465](https://github.com/Chesire/Nekome/issues/465) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
 <!--END_SECTION:activity-->
 
 ## Stats
