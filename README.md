@@ -18,11 +18,11 @@
 
 <!-- Uses https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#488](https://github.com/Chesire/Nekome/issues/488) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-2. 🗣 Commented on [#488](https://github.com/Chesire/Nekome/issues/488) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-3. 💪 Opened PR [#488](https://github.com/Chesire/Nekome/pull/488) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-4. ❗️ Opened issue [#487](https://github.com/Chesire/Nekome/issues/487) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
-5. 🗣 Commented on [#481](https://github.com/Chesire/Nekome/issues/481) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+1. 🗣 Commented on [#103](https://github.com/Chesire/Pushie/issues/103) in [Chesire/Pushie](https://github.com/Chesire/Pushie)
+2. 🗣 Commented on [#486](https://github.com/Chesire/Nekome/issues/486) in [Chesire/Nekome](https://github.com/Chesire/Nekome)
+3. 🗣 Commented on [#66](https://github.com/Chesire/Eden/issues/66) in [Chesire/Eden](https://github.com/Chesire/Eden)
+4. 🗣 Commented on [#162](https://github.com/Chesire/LifecykleLog/issues/162) in [Chesire/LifecykleLog](https://github.com/Chesire/LifecykleLog)
+5. 🗣 Commented on [#132](https://github.com/Chesire/LintRules/issues/132) in [Chesire/LintRules](https://github.com/Chesire/LintRules)
 <!--END_SECTION:activity-->
 
 ## Stats
