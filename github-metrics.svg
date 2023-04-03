@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1023" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1094" class="">
     <defs>
         <style/>
     </defs>
@@ -1458,12 +1458,12 @@
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              197 MB used
+              198 MB used
             </div>
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    9.47k added, 7.45k removed
+                    30k added, 4.47k removed
                   
                 </div>
                             </section>
@@ -1549,6 +1549,50 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 5 commits in <span class="repo">Chesire/Nekome</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor/change-app-module-to-use-compose</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#b4fc287</span>
+                                        <span class="message">fix: incorrect destinations added</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e0c2e64</span>
+                                        <span class="message">feat: load correct screens on start
+
+Load the correct screens when we finish logging in, and initially launching the app.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d279660</span>
+                                        <span class="message">refactor: remove the login fragments
+
+Now the screens can be navigated to with compose, we can remove the fragments.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b6bc059</span>
+                                        <span class="message">refactor: tidy up defining the nav graph</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2c8b85c</span>
+                                        <span class="message">feat: add navigation between the series screens
+
+Add the compose navigation between the screens in the series module.</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">
+                    3 Apr 2023, 17:24:41
+                  </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1662,108 +1706,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                   </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Chesire/Nekome</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#1f9610d</span>
-                                        <span class="message">refactor: use compose for settings (#939)
-
-* chore: add compose dependencies to settings module
-
-* feat: begin creating new config screen
-
-* feat: add click handlers to all preferences sections
-
-Add empty click handlers to all of the preferences.
-
-* feat: add link to github on click
-
-* feat: add navigation to the OSS screen
-
-* feat: add rate series preference
-
-Add the rate series preference in the compose screen.
-
-* feat: updat the rate series preference
-
-Hook the datastore up with a usecase so as we update the rate series on completion preference, it is
-automatically updated in the ui.
-
-* feat: get the theme value and update the ui
-
-Get the theme value from the data store and set it into the setting screen. Also when the theme is
-updated, update the applications ui to match it.
-
-* fix: add hacky fix to have the correct daynight setting on app start
-
-* refactor: simplify the sort option remember block
-
-* feat: add composable for the Theme dialog
-
-* feat: allow choosing new theme from settings
-
-* refactor: make sort use the new shared dialog
-
-* test: add testTag for the dialog cancel button
-
-* feat: add default home screen to the settings
-
-* feat: add default series status to the settings
-
-* refactor: remove old settings fragment
-
-* fix: make whole rating preference line clickable
-
-* test: remove invalid tests for the application preferences
-
-* style: fix view action naming
-
-* refactor: move the shared preference extensions into new package
-
-* test: fix the ids for the SortOptionRobot
-
-* test: add unit tests for the settings module
-
-* test: create new abstract robot for dialogs
-
-* test: update ui tests for new compose screens
-
-* test: reset the application preferences when starting new test
-
-* style: ktlint fixes
-
-* docs: update kdoc on a few public files
-
-* style: change layout of method
-
-* test: fix the broken activity viewmodel tests
-
-* test: fix wrong type in unit test
-
-* test: fix tests calling wrong method</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">
-                    1 Apr 2023, 09:00:26
-                  </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2023, 19:17:38 (timezone Europe/London) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 3 Apr 2023, 22:12:38 (timezone Europe/London) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
